@@ -1,0 +1,22 @@
+Types of Programming:-
+1. Procedural -> specifies a series of well-structured steps and procedures to compose a program.It contains
+systematic order of statements,functions and commands to complete a task
+2. Functional -> writing a program only in pure functions i.e., never modify variables but creates new ones
+as an output.
+3. Object oriented -> revolves around object. code + data = object. developed to make it easier to reuse,
+develop,debug and main software
+
+Static vs Dynamic Languages
+1. static -> perform type checking done at compile time. error is shown at compile time. declare data types
+before we use it. more control
+2. dynamic -> performs type checking at run time. error is not shown till the program is run. no need to
+declare variable data types. saves time in writing code but error might come in runtime
+
+how java code executes?
+                            (COMPILER)                          (INTERPRETER)
+Java File(Human Readable) --------------> Class File(Byte Code) --------------> Machine Code(0's and 1's)
+                           (ENTIRE FILE)                        (LINE BY LINE)
+source code is converted to byte code. so, java is platform independent
+byte code is converted to machine code by using jvm . jvm is platform dependent
+
+Java Architecture :-
