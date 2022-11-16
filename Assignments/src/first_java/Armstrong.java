@@ -3,7 +3,7 @@ package first_java;
 import java.util.Scanner;
 
 public class Armstrong {
-    // To find Armstrong Number between two given number.
+    // To find Conditional_loops.Intermediate.Armstrong Number between two given number.
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int num = scn.nextInt();
